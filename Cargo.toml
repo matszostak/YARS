@@ -14,4 +14,4 @@ hex = "0.4"
 
 [[bin]]
 name = "YARS"
-path = "main.rs"
+path = "src/main.rs"
