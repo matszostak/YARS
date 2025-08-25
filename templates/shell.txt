@@ -1,0 +1,1 @@
+echo "Ransom Note" > note.txt
