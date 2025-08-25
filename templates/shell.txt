@@ -1,1 +1,1 @@
-echo "Ransom Note" > note.txt
+echo Ransom Note > note.txt
